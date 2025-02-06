@@ -1,0 +1,44 @@
+<< Paint by Lewis Version 0.1 >>
+ < created 10/05/2022 >
+- Base application made
+
+
+<< Paint by Lewis Version 0.2 >>
+ < updated 12/05/2022 >
+- Removed old +- button system to change pen size
+- Added slider and entry label to change pen size
+- Slider and entry label affect each other's value to always be same
+- Made cursor change to arrow when over slider
+- Canvas size is now 1920x1080
+- Completely reworked how widgets are packed in app, should be able to work on any screen type
+- Due to reworked packing the window can be resized however the user likes
+
+
+<< Paint by Lewis Version 0.3 >>
+ < updated 15/05/2022 >
+- Attempted undo button but still unsure on how to implement
+- Added own icon of a paint palette for window
+- Reworked colour picking method
+ - Removed old colour buttons
+ - Removed old pen cursors
+ - Removed PhotoImage for colour button icons
+ - Added window for colour picking
+ - Added hex entry for specific colour
+
+
+<< Paint by Lewis Version 0.4 >>
+ < updated 20/05/2022 >
+- Remapped all features to look nicer
+- Fixed hex entry label bug that added the newest hex colour code to end rather than deleting what was in the entry before
+- Added eraser button that sets size to 15 and colour to white
+- Added pen button to go back to using the pen after using eraser
+
+
+<< As of Version 0.4 Paint by Lewis is now in full release >>
+
+
+<< Paint by Lewis Version 1.0 >>
+ < released 20/05/2022 >
+- Paint is now fully functional as a basic drawing application
+
+
